@@ -1,2 +1,2 @@
 # Photospot-App
-application for photo locations
+This is an application for photo locations
